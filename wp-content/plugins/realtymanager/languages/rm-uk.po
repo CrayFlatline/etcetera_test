@@ -1,0 +1,225 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Realty Manager\n"
+"POT-Creation-Date: 2020-07-30 16:43+0300\n"
+"PO-Revision-Date: 2020-07-30 16:44+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: realtymanager.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: classes/constants.class.php:22
+msgid "Panel"
+msgstr "Панель"
+
+#: classes/constants.class.php:23
+msgid "Brick"
+msgstr "Цегла"
+
+#: classes/constants.class.php:24
+msgid "Foam Block"
+msgstr "Пеноблок"
+
+#: classes/posttypes.class.php:51
+msgid "Realty"
+msgstr "Нерухомість"
+
+#: classes/posttypes.class.php:52
+msgid "Realty items"
+msgstr "Об'єкти нерухомості"
+
+#: classes/posttypes.class.php:57
+msgid "District"
+msgstr "Район"
+
+#: classes/posttypes.class.php:58
+msgid "Districts"
+msgstr "Райони"
+
+#: classes/posttypes.class.php:70 classes/posttypes.class.php:114
+#: classes/posttypes.class.php:115
+#, php-format
+msgid "Parent %s"
+msgstr "Батьківський %s"
+
+#: classes/posttypes.class.php:71 classes/posttypes.class.php:113
+#, php-format
+msgid "All %s"
+msgstr "Всі %s"
+
+#: classes/posttypes.class.php:72 classes/posttypes.class.php:118
+#, php-format
+msgid "Add new %s"
+msgstr "Додати %s"
+
+#: classes/posttypes.class.php:73 classes/posttypes.class.php:116
+#, php-format
+msgid "Edit %s"
+msgstr "Редагувати %s"
+
+#: classes/posttypes.class.php:74 classes/posttypes.class.php:117
+#, php-format
+msgid "Update %s"
+msgstr "Оновити %s"
+
+#: classes/posttypes.class.php:75 classes/posttypes.class.php:112
+#, php-format
+msgid "Search %s"
+msgstr "Пошук %s"
+
+#: classes/posttypes.class.php:119
+#, php-format
+msgid "New Topic %s"
+msgstr "Новий %s"
+
+#: classes/posttypes.class.php:120
+#, php-format
+msgid "%s"
+msgstr "%s"
+
+#: classes/posttypes.class.php:146 views/front/forms/filter.tpl.php:9
+msgid "Building title"
+msgstr "Назва будинку"
+
+#: classes/posttypes.class.php:147
+msgid "Location"
+msgstr "Координати"
+
+#: classes/posttypes.class.php:148
+msgid "Floors count"
+msgstr "Кількість поверхів"
+
+#: classes/posttypes.class.php:150 views/front/forms/filter.tpl.php:13
+msgid "Material"
+msgstr "Матеріал"
+
+#: classes/posttypes.class.php:152 views/front/forms/filter.tpl.php:24
+msgid "Eco-friendliness"
+msgstr "Екологічність"
+
+#: classes/posttypes.class.php:154 classes/posttypes.class.php:173
+msgid "Photo"
+msgstr "Фото"
+
+#: classes/posttypes.class.php:157
+msgid "Apartment"
+msgstr "Приміщення"
+
+#: classes/posttypes.class.php:160 views/front/forms/filter.tpl.php:40
+msgid "Square"
+msgstr "Площа"
+
+#: classes/posttypes.class.php:161 views/front/forms/filter.tpl.php:44
+msgid "Rooms count"
+msgstr "Кількість кімнат"
+
+#: classes/posttypes.class.php:163 views/front/forms/filter.tpl.php:55
+msgid "Balcony"
+msgstr "Балкон"
+
+#: classes/posttypes.class.php:165 classes/posttypes.class.php:170
+#: views/front/forms/filter.tpl.php:59 views/front/forms/filter.tpl.php:72
+msgid "Yes"
+msgstr "Так"
+
+#: classes/posttypes.class.php:166 classes/posttypes.class.php:171
+#: views/front/forms/filter.tpl.php:63 views/front/forms/filter.tpl.php:76
+msgid "No"
+msgstr "Ні"
+
+#: classes/posttypes.class.php:168 views/front/forms/filter.tpl.php:68
+msgid "Bathroom"
+msgstr "Санвузол"
+
+#: classes/realtymanager.class.php:51
+msgid "Realty List Sidebar"
+msgstr ""
+
+#: classes/realtymanager.class.php:53
+msgid "Widgets in this area will be shown on realty list."
+msgstr ""
+
+#: classes/widgets/widget-realty-filter.class.php:16
+msgid "Realty Filter"
+msgstr "Фільтр"
+
+#: classes/widgets/widget-realty-filter.class.php:18
+msgid "Display a filter"
+msgstr ""
+
+#: classes/widgets/widget-realty-filter.class.php:23
+msgid "Realty filter"
+msgstr "Фільтр"
+
+#: classes/widgets/widget-realty-filter.class.php:24
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/template-helpers.php:83
+msgid "Previous Page"
+msgstr "Попередня сторінка"
+
+#: includes/template-helpers.php:84
+msgid "Next Page"
+msgstr "Наступна сторінка"
+
+#: includes/template-helpers.php:85
+msgid "Posts navigation"
+msgstr "Навігація по публікаціям"
+
+#: includes/template-helpers.php:86
+msgid "Posts"
+msgstr "Публікації"
+
+#: views/front/forms/filter.tpl.php:3
+#, fuzzy
+#| msgid "Realty Filter"
+msgid "Filter"
+msgstr "Фільтр"
+
+#: views/front/forms/filter.tpl.php:6
+msgid "Buildings"
+msgstr "Будинки"
+
+#: views/front/forms/filter.tpl.php:15 views/front/forms/filter.tpl.php:26
+#: views/front/forms/filter.tpl.php:46
+msgid "Select option"
+msgstr "Оберіть опцію"
+
+#: views/front/forms/filter.tpl.php:37
+msgid "Apartments"
+msgstr "Приміщення"
+
+#: views/front/forms/filter.tpl.php:86
+msgid "Cancel"
+msgstr "Очистити"
+
+#: views/front/forms/filter.tpl.php:87
+msgid "Submit"
+msgstr "Фільтрувати"
+
+#. Plugin Name of the plugin/theme
+msgid "Realty Manager"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Manage realty items."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Cray Flatline"
+msgstr ""
